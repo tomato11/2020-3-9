@@ -5,6 +5,7 @@ public static void main(String[] args) {
 	String b="ad";
 	int a=11;
 	int f=55;
+	int d=22;
 	System.out.println("aad");
 
 	String c="a";
