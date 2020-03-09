@@ -4,7 +4,7 @@ public class test222 {
 public static void main(String[] args) {
 	String b="ad";
 	int a=11;
-
+	int f=55;
 	System.out.println("aad");
 
 	String c="a";
